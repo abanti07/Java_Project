@@ -1,1 +1,202 @@
-[{"answerkey":4,"option 3":"Load Testing","option 4":"Unit Testing","question":"Which is not part of system testing?","option 1":"Regression Testing","option 2":"Sanity Testing"},{"answerkey":2,"option 3":"Early testing saves time and money.","option 4":"Defect clustering.","question":"Which of the following is NOT a fundamental principle of manual testing?","option 1":"Testing cannot prove the absence of defects.","option 2":"Exhaustive testing is always possible."},{"answerkey":3,"option 3":"Testing","option 4":"Deployment","question":"Which phase of the software development life cycle typically involves manual testing?","option 1":"Design","option 2":"Coding"},{"answerkey":3,"option 3":"Branch Testing","option 4":"State Transition","question":"What is not the blackbox testing strategy?","option 1":"Equivalence Partitioning","option 2":"Boundary Value Testing"},{"answerkey":2,"option 3":"To automate the testing process.","option 4":"To optimize the performance of the application.","question":"What is the primary goal of manual testing?","option 1":"To identify syntax errors in the code.","option 2":"To ensure that the software meets the specified requirements."},{"answerkey":3,"option 3":"Unit testing","option 4":"Regression testing","question":"Which type of testing focuses on the functionality of individual components or units of code?","option 1":"System testing","option 2":"Integration testing"},{"answerkey":3,"option 3":"White-box testing","option 4":"Decision Table Testing","question":"Which of the following is NOT a black-box testing technique?","option 1":"Boundary Value Analysis","option 2":"Equivalence Partitioning"},{"answerkey":3,"option 3":"Code review","option 4":"Usability testing","question":"Which of the following is an example of a static testing technique?","option 1":"Black-box testing","option 2":"White-box testing"},{"answerkey":3,"option 3":"Decision table testing","option 4":"Adhoc Testing","question":"Which is whitebox testing technique?","option 1":"Equivalent Partitioning","option 2":"Boundary value testing"},{"answerkey":3,"option 3":"Agile development","option 4":"Decision table testing","question":"Which of the following is NOT a test design technique?","option 1":"Equivalence partitioning","option 2":"Boundary value analysis"},{"answerkey":3,"option 3":"Regression testing","option 4":"User acceptance testing","question":"Which type of testing verifies that the software functions correctly after a new version or change is implemented?","option 1":" Smoke testing","option 2":"Sanity testing"},{"answerkey":3,"option 3":"Test Debugging","option 4":" Test Closure","question":"Which of the following is NOT a phase of the software testing life cycle?","option 1":"Test Planning","option 2":"Test Execution"},{"answerkey":1,"option 3":" To automate the testing process","option 4":"To track project progress","question":" What is the purpose of a test case?","option 1":"To document the steps for a test scenario","option 2":"To report defects found during testing"},{"answerkey":1,"option 3":"The amount of time spent on test execution","option 4":"The cost of the testing process","question":"What does the term test case coverage refer to in manual testing?","option 1":"The percentage of test cases executed","option 2":"The number of defects found during testing"},{"answerkey":4,"option 3":"Defect resolution","option 4":"Defect documentation","question":" Which of the following is NOT a phase of defect life cycle?","option 1":"Defect identification","option 2":" Defect triage"},{"answerkey":4,"option 3":"Semantic errors","option 4":"Feature requests","question":"Which of the following is NOT a common category of software bugs?","option 1":"Syntax errors","option 2":"Logical errors"},{"answerkey":1,"option 3":"feature","option 4":"Regression","question":"Which is non functional testing?","option 1":"performance","option 2":"sanity"},{"answerkey":1,"option 3":"A planned feature not yet implemented.","option 4":"A warning message displayed by the compiler.","question":"What is an error in software development?","option 1":"A defect in the code that leads to incorrect program behavior.","option 2":"A type of bug that is particularly difficult to fix."},{"answerkey":2,"option 3":"A planned feature of the software.","option 4":"A programming language construct.","question":" Which term refers to a fault in software engineering?","option 1":"A mistake made by the end-user of the software.","option 2":"A defect or bug in the software that may or may not result in a failure."},{"answerkey":1,"option 3":"External resources only.","option 4":"External and Internal resources respectively.","question":"Verification and Validation uses _______.","option 1":" Internal and External resources respectively.","option 2":" Internal resources only"},{"answerkey":1,"option 3":"Test Requirement","option 4":"Test Configuration","question":"Test cases are created in which phase?","option 1":"Test Specification","option 2":"Test Planning"},{"answerkey":4,"option 3":"Dynamic testing","option 4":"Static Testing","question":"Which testing is performed first?","option 1":"Black box testing","option 2":"White box testing"}]
+[
+  {
+    "answerkey": 4,
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Early testing saves time and money.",
+    "option 4": "Defect clustering.",
+    "question": "Which of the following is NOT a fundamental principle of manual testing?",
+    "option 1": "Testing cannot prove the absence of defects.",
+    "option 2": "Exhaustive testing is always possible."
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Testing",
+    "option 4": "Deployment",
+    "question": "Which phase of the software development life cycle typically involves manual testing?",
+    "option 1": "Design",
+    "option 2": "Coding"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Branch Testing",
+    "option 4": "State Transition",
+    "question": "What is not the blackbox testing strategy?",
+    "option 1": "Equivalence Partitioning",
+    "option 2": "Boundary Value Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "To automate the testing process.",
+    "option 4": "To optimize the performance of the application.",
+    "question": "What is the primary goal of manual testing?",
+    "option 1": "To identify syntax errors in the code.",
+    "option 2": "To ensure that the software meets the specified requirements."
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Unit testing",
+    "option 4": "Regression testing",
+    "question": "Which type of testing focuses on the functionality of individual components or units of code?",
+    "option 1": "System testing",
+    "option 2": "Integration testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "White-box testing",
+    "option 4": "Decision Table Testing",
+    "question": "Which of the following is NOT a black-box testing technique?",
+    "option 1": "Boundary Value Analysis",
+    "option 2": "Equivalence Partitioning"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Code review",
+    "option 4": "Usability testing",
+    "question": "Which of the following is an example of a static testing technique?",
+    "option 1": "Black-box testing",
+    "option 2": "White-box testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Agile development",
+    "option 4": "Decision table testing",
+    "question": "Which of the following is NOT a test design technique?",
+    "option 1": "Equivalence partitioning",
+    "option 2": "Boundary value analysis"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Regression testing",
+    "option 4": "User acceptance testing",
+    "question": "Which type of testing verifies that the software functions correctly after a new version or change is implemented?",
+    "option 1": " Smoke testing",
+    "option 2": "Sanity testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Test Debugging",
+    "option 4": " Test Closure",
+    "question": "Which of the following is NOT a phase of the software testing life cycle?",
+    "option 1": "Test Planning",
+    "option 2": "Test Execution"
+  },
+  {
+    "answerkey": 1,
+    "option 3": " To automate the testing process",
+    "option 4": "To track project progress",
+    "question": " What is the purpose of a test case?",
+    "option 1": "To document the steps for a test scenario",
+    "option 2": "To report defects found during testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "The amount of time spent on test execution",
+    "option 4": "The cost of the testing process",
+    "question": "What does the term test case coverage refer to in manual testing?",
+    "option 1": "The percentage of test cases executed",
+    "option 2": "The number of defects found during testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Defect resolution",
+    "option 4": "Defect documentation",
+    "question": " Which of the following is NOT a phase of defect life cycle?",
+    "option 1": "Defect identification",
+    "option 2": " Defect triage"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Semantic errors",
+    "option 4": "Feature requests",
+    "question": "Which of the following is NOT a common category of software bugs?",
+    "option 1": "Syntax errors",
+    "option 2": "Logical errors"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "feature",
+    "option 4": "Regression",
+    "question": "Which is non functional testing?",
+    "option 1": "performance",
+    "option 2": "sanity"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "A planned feature not yet implemented.",
+    "option 4": "A warning message displayed by the compiler.",
+    "question": "What is an error in software development?",
+    "option 1": "A defect in the code that leads to incorrect program behavior.",
+    "option 2": "A type of bug that is particularly difficult to fix."
+  },
+  {
+    "answerkey": 2,
+    "option 3": "A planned feature of the software.",
+    "option 4": "A programming language construct.",
+    "question": " Which term refers to a fault in software engineering?",
+    "option 1": "A mistake made by the end-user of the software.",
+    "option 2": "A defect or bug in the software that may or may not result in a failure."
+  },
+  {
+    "answerkey": 1,
+    "option 3": "External resources only.",
+    "option 4": "External and Internal resources respectively.",
+    "question": "Verification and Validation uses _______.",
+    "option 1": " Internal and External resources respectively.",
+    "option 2": " Internal resources only"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Test Requirement",
+    "option 4": "Test Configuration",
+    "question": "Test cases are created in which phase?",
+    "option 1": "Test Specification",
+    "option 2": "Test Planning"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Dynamic testing",
+    "option 4": "Static Testing",
+    "question": "Which testing is performed first?",
+    "option 1": "Black box testing",
+    "option 2": "White box testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "The bug may not be the major effect in the software.",
+    "option 4": "Data may be unavailable",
+    "question": " Bug status is set to postpone due to ________",
+    "option 1": " Priority of that bug may low",
+    "option 2": "Lack of time for the release."
+  },
+  {
+    "answerkey": 3,
+    "option 3": " Error guessing has rules for testing.",
+    "option 4": "Predicate Coverage uses Boolean values.",
+    "question": "Which is not true?",
+    "option 1": " Condition coverage is also known as Predicate Coverage",
+    "option 2": "100% condition coverage does not guarantee 100% decision coverage."
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Maintainability",
+    "option 4": "None",
+    "question": "Identify the correct functional requirement.",
+    "option 1": "Robastness",
+    "option 2": "Portability"
+  }
+]
